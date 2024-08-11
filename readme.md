@@ -46,7 +46,7 @@ Same "paper" commands in "Context Anywhere", just remove "paper" from command li
   
 Also, you can pass index in a number of cases for reference of paper or tasklist instead of name.  
   
-# Context Task (task list is opened - task lists are found within a specific notebook)  
+# Context Task (task list is opened)
 (l)ist : lists the tasks in the task list (index list for most commands)  
 (c)reate "<your task details>" : creates a new task  
 (u)pdate [index] : provides an update, a new note to append to task  
